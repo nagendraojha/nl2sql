@@ -35,7 +35,7 @@ Execute the script with:
 
 # Evaluation Metrics
 - Evaluation Method: Loose Match Accuracy
-- Current Performance:100.00% accuracy on sample questions
+- Current Performance:78% accuracy on sample questions
 - Note:The loose match approach considers token similarity rather than requiring exact matches, providing more flexible evaluation.
 
 # Project Details
