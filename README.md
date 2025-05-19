@@ -43,11 +43,5 @@ Execute the script with:
 - Designed for testing basic SQL generation capabilities
 - Implements error handling for API reliability
 
-# Output
-Results are saved to nl2sql_results.csv, containing:
-- Original questions
-- Generated SQL queries
-- Expected SQL queries
-- Match results
 
 
